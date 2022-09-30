@@ -8,7 +8,7 @@
 global rltRandomX
 try destroyDialog rltRandomX catch()
 
-rollout rltRandomX "RandomX 0.4"
+rollout rltRandomX "RandomX v0.4"
 (
         label lbl_move_rotate "M O V E             R O T A T E" pos:[30,3]
     

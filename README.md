@@ -2,7 +2,7 @@
 Transform Randomizer for 3ds Max
 
 <p align="center">
-  <img width="185" height="164" src="https://raw.githubusercontent.com/markulie/RandomX/main/RandomX.png">
+  <img width="182" height="172" src="https://raw.githubusercontent.com/markulie/RandomX/main/RandomX.png">
 </p>
 
 ## Install

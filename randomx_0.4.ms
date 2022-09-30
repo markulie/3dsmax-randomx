@@ -1,7 +1,7 @@
 -- RandomX 
 -- Description: Transform Randomizer for 3ds Max
 -- Version: 0.4
--- Author: Markaelie
+-- Author: Markulie
 -- Created: May 4, 2015
 -- Updated: August 21, 2022
 
@@ -42,7 +42,7 @@ rollout rltRandomX "RandomX 0.4"
                     (
                         seed (random 1 50000)
                         in coordsys local arr[i].pos = random [(spn_mnMove.value),0,0] [(sld_move.value),0,0]
-                    )				
+                    )
                 )
             
                 if (rdi_movAxis.state == 2) do
@@ -132,10 +132,10 @@ rollout rltRandomX "RandomX 0.4"
                 sld_rotate.range = [-(spn_mxRotation.value),(spn_mxRotation.value),0]
                 sld_rotate.ticks = 8
             )
-        )	
+        )
     
     
-    hyperLink author "markaelie" address:"https://markaelie.github.io" color:(color 255 255 255) hovercolor:(color 255 150 255) visitedcolor:(color 255 255 255) align:#center
+    hyperLink author "markulie" address:"https://markulie.github.io" color:(color 255 255 255) hovercolor:(color 255 150 255) visitedcolor:(color 255 255 255) align:#center
 
-)	
+)
 createDialog rltRandomX 180 140

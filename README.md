@@ -1,4 +1,9 @@
 # RandomX
+
+![GitHub repo size](https://img.shields.io/github/repo-size/markulie/RandomX)
+![GitHub stars](https://img.shields.io/github/stars/markulie/RandomX?style=social)
+![GitHub forks](https://img.shields.io/github/forks/markulie/RandomX?style=social)
+
 Transform Randomizer for 3ds Max
 
 <p align="center">
